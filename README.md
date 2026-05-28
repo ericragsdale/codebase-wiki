@@ -47,7 +47,7 @@ This process is collaborative. The agent will explore the repo, create wiki page
 
 ### 3. Browse the results
 
-Open the wiki directory in a markdown viewer and review what the agent produced. If something is wrong, missing, or confusing, tell the agent.
+Open the wiki directory in a markdown viewer (VSCode, Obsidian, nvim, notepad, etc.) and review what the agent produced. If something is wrong, missing, or confusing, tell the agent.
 
 ## Choosing a Model
 
